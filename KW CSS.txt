@@ -1,0 +1,57 @@
+#title{
+  text-align: center;
+  margin-top: -5px;
+  margin-bottom: 0;
+}
+
+h1{
+    font-size: 60px;
+    margin-bottom: 0;
+    text-align: center;
+}
+p1{
+  text-align: center;
+  font-size: 25px;
+  margin-top: -5px;
+}
+img {
+  max-width: 75%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+}
+#img-caption {
+  text-align: center;
+  font-size: 25px;
+}
+#headline{
+  text-align:center;
+  font-size: 40px;
+  margin-top: -10px;
+}
+li{
+  text-align: left;
+  padding-bottom: 25px;
+  margin-top: -20px;
+}
+body{
+background-image: url('https://i.postimg.cc/k5VSxHfM/120-1208886-kanye-west-wallpaper-kanye-west-wallpaper-art.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-top: -15px;
+}
+#tribute-link{
+  font-size: 15px;
+}
+#quote{
+  text-align: center;
+  color: black;
+}
+#footer {
+  font-size: 15px;
+  color: black;
+  text-align: center;
+}
+p2{
+  color:red;
+}

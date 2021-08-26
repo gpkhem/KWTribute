@@ -1,0 +1,66 @@
+<!-- 
+
+Hello Camper!
+
+Please read the README below in the JS Editor before beginning. Feel free to delete this message once you have read it. Good luck and Happy Coding! 
+
+- The freeCodeCamp Team 
+
+-->
+<!DOCTYPE html>
+<meta charset=“UTF-8”>
+
+ <div id="main">
+    <div id="title">
+      <h1>Kanye West</h1>
+      <p1>Greatest Living Artist in the World &#x1F410;</p1>
+    </div>
+   <div id="img-div">
+      <figure>
+        <img id="image" src="https://i.postimg.cc/HsZ4Xbd2/url-https-california-times-brightspot-s3-amazonaws.jpg" alt="Smile Kanye">
+        <figcaption id="img-caption">West with his signature Dropout Bear Mascot.
+        </figcaption>
+      </figure>
+    </div>
+    <section id="tribute-info">
+    <h3 id="headline">Here's a time line of Kanye West's solo albums:</h3>
+    <ul>
+      <li><strong>2004</strong> - The College Dropout</li>
+      <li>
+        <strong>2005</strong> - Late Registration"
+      </li>
+      <li>
+        <strong>2007</strong> - Graduation
+      </li>
+      <li>
+        <strong>2008</strong> - 808's and Heartbreaks
+      </li>
+      <li>
+        <strong>2010</strong> - My Beautiful Dark Twisted Fantasy
+      </li>
+      <li>
+        <strong>2013</strong> - Yeezus
+      </li>
+      <li>
+        <strong>2016</strong> - The Life of Pablo
+      </li>
+      <li>
+        <strong>2018</strong> - Ye
+      </li>
+      <li>
+        <strong>2019</strong> - Jesus is King
+      </li>
+      <li>
+        <strong>To be continue....</strong> - Man he never going to drop Donda. Come on Drake drop yours so he can drop his.
+      </li>
+
+ <body>
+<div id="quote">"George Bush doesn't care about black people."<cite> -- Me</cite>
+</div>
+   
+     <div id="footer">
+                <p2>To read a more in depth look at Mr West's life check out his <a href="https://en.wikipedia.org/wiki/Kanye_West" target="_blank" id="tribute-link">Wikipedia Page</a>.</p2>
+            </div>
+     
+         </body>
+</html>
